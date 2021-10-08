@@ -1,0 +1,7 @@
+Stan Verbruggen
+
+Bij het toevoegen van nieuwe bestanden moet je deze telkens onder versiebeheer zetten dus hier gebruik je  git add voor
+Bij wijzigingen van bestanden die al onder versiebeheer staan kan je onmiddellijk committen bij wijzigingen bvb. dus  git  commit –m “Message”
+Om de wijzigingen effectief ook te pushen naar de remote repository gebruik je het  git push commando
+
+
